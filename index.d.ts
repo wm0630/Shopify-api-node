@@ -20,7 +20,6 @@
  *~ is the exported object from the file
  */
 export = Shopify;
-
 /*~ Write your module's methods and properties in this class */
 
 declare class Shopify {
